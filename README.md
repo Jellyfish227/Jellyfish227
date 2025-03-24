@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying CE@CUHK<br>👯 I’m looking to collaborate on software, AI or DL projects<br>🤝 I’m looking for help from experienced in all different aspects<br>🌱 I’m currently learning C++, Java, Python, JavaScript, and a bunch more
+🔭 I’m currently majoring CE@CUHK, focusing on EDA and hardware architecture design<br>👯 I’m looking to collaborate on software, AI or DL projects<br>🤝 I’m looking for help from experienced in all different aspects<br>🌱 I’m currently learning C++, Java, Python, JavaScript, and a bunch more
 
 
 ## 🌐 Socials:
